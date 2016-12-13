@@ -1,0 +1,13 @@
+package ru.svtz.civilization;
+
+import net.minecraftforge.fml.common.Mod;
+
+@Mod(
+        modid = "Civilization",
+        name = "Civilization",
+        version = "0.0"
+)
+ 
+public class Civilization {
+ 
+}
