@@ -9,5 +9,5 @@
 <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="GradleStart"/>
 <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="MDKExample"/>
 <stringAttribute key="org.eclipse.jdt.launching.VM_ARGUMENTS" value="-Xincgc -Xmx1024M -Xms1024M"/>
-<stringAttribute key="org.eclipse.jdt.launching.WORKING_DIRECTORY" value="${project_loc}/run"/>
+<stringAttribute key="org.eclipse.jdt.launching.WORKING_DIRECTORY" value="C:\Users\DarkSeva\Documents\GitHub\Civilization\run"/>
 </launchConfiguration>

@@ -24,13 +24,12 @@ This mapping 'snapshot_20160518' was designed for MC 1.9.4! Use at your own peri
 :deobfMcSRG SKIPPED
 :decompileMc SKIPPED
 :fixMcSources SKIPPED
-:applySourcePatches
+:applySourcePatches SKIPPED
 :remapMcSources SKIPPED
 :recompileMc SKIPPED
 :extractNatives SKIPPED
 :getAssetIndex UP-TO-DATE
 :getAssets
-Current status: 1009/1112   90%
 :makeStart
 :setupDecompWorkspace
 :eclipseClasspath
@@ -42,4 +41,4 @@ Current status: 1009/1112   90%
 
 BUILD SUCCESSFUL
 
-Total time: 32.11 secs
+Total time: 29.529 secs
